@@ -1,5 +1,9 @@
 # Frontend Mentor - Interactive rating component solution
 
+# Update
+
+I have further refactored my code to use form and radio buttons. I still have more I would like to do but it's working better and much cleaner.
+
 ## Overview
 
 - I started this one before joining frontend mentor. After I joined I then broke it and redid it using the matching color scheme and matching .svg

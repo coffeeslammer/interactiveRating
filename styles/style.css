@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
-
 * {
     box-sizing: border-box;
 }
@@ -130,7 +128,6 @@ p {
 }
 
 .selected {
-    display: inline-block;
     padding: .5rem 1.5rem;
     text-align: center;
     background-color: hsl(213, 19%, 18%);
@@ -142,11 +139,11 @@ p {
     display: none;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 25rem) {
 
     .container,
     .thank-you-container {
-        min-width: 300px;
+        min-width: 18.75rem;
         margin: 2rem;
     }
 }
